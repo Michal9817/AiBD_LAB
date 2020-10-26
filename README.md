@@ -1,2 +1,3 @@
 # AiBD_LAB
-Laboratoria z AiBD
+
+Tutaj wrzucam zadania z laboratoriów.
